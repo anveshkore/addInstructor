@@ -1,0 +1,49 @@
+.main{
+    display: flex;
+    gap: 30px;
+ margin-top: 70px;
+ margin-left: 40px;
+ padding-top:40px ;
+ 
+}
+.second
+{
+    display: flex;
+    gap: 50px;
+    padding-top: 40px;
+    margin-left: 40px;
+}
+.third
+{
+    display: flex;
+    gap: 30px;
+    padding-top: 40px;
+    margin-left: 40px;
+}
+.background{
+width: 1148px;
+height: 772px;
+flex-shrink: 0;
+border-radius: 12px;
+background: #FFF;
+outline-style:solid;
+margin-top: 184x;
+outline-color: aliceblue;
+outline-width: 2px;
+margin-left: 320px;
+margin-right: 200px;
+
+}
+.fourth{
+    display:flex;
+    flex-direction:row;
+}
+.button{
+    display: flex;
+width: 1072px;
+justify-content: flex-end;
+align-items: center;
+gap: 16px;
+margin-top:300px;
+}
+

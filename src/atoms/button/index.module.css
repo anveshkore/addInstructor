@@ -1,0 +1,15 @@
+
+
+.buttonStyle{
+    color: var(--global-inherit-color, #FFF);
+    font-family: Poppins;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 26px; /* 173.333% */ 
+    background-color: blue;
+    border-top-right-radius: 5px;
+    border-top-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+}

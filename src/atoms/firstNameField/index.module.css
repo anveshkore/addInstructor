@@ -1,0 +1,29 @@
+.heading{
+    color: var(--Primary-Text, #3F4254);
+font-family: Poppins;
+font-size: 14px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+.input{
+    width:316px;
+    height: var(--textfield-standard-small-height, 42px);
+    border-top-left-radius: 12px;
+    border-top-right-radius: 12px;
+    border-bottom-left-radius: 12px;
+    border-bottom-right-radius: 12px;
+    padding-left: 14px;
+    border:1px solid #DFDFDF;
+    outline: none;
+    
+}
+.error{
+    font-family: Poppins;
+    font-size: 12px;
+    color:#BE1E2D;
+}
+
+
+
+
